@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdhavale&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdhavale" /> </p>
 
-- 🔭 I’m currently working on **Advance React.js**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Advance React.js && DSA**
+- 🌱 I’m currently learning **React.js && DSA**
 
 - 🤝 I’m looking for help with **Any Frontend Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankushdhavale/ankushdhavale](https://github.com/ankushdhavale/ankushdhavale)
 
-- 📫 How to reach me **ankushdhavale7@gmail.com**
+- 📫 How to reach me **dhavaleankush7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
