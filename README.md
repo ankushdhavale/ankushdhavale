@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdhavale&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdhavale" /> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js Project**
 
 - 🌱 I’m currently learning **React.js && DSA**
 
