@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React.js Project**
 
-- 🌱 I’m currently learning **React.js && DSA**
+- 🌱 I’m currently learning **REACT.JS && JAVA DSA && BACKEND- MONGODB NOD.JS EXPRESS**
 
 - 🤝 I’m looking for help with **Any Frontend Project**
 
