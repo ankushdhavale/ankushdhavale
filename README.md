@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **Any Frontend Project**
+- 🤝 I’m looking for any projecct to build something intresting  with **React.js Frontend Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankushdhavale/ankushdhavale](https://github.com/ankushdhavale/ankushdhavale)
 
