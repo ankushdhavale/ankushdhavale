@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankush Dhavale</h1>
-<h3 align="center">A Passionate About frontend developer And Learn DSA In JAVA</h3>
+<h3 align="center">A Passionate About Make Frontend Designing And Learn More About the DSA In JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdhavale&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdhavale" /> </p>
 
 - 🔭 I’m currently working on **React.js Project**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 🤝 I’m looking for any projecct to build something intresting  with **React.js Frontend Project**
 
