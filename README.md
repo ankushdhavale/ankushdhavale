@@ -13,7 +13,6 @@
   
 - 📫 How to reach me **dhavaleankush7@gmail.com**
 
--👨‍💻 Portfolio **ankushdhavale.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
